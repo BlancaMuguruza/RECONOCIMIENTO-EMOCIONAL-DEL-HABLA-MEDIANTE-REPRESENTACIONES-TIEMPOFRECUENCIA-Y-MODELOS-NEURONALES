@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.env
+.ipynb_checkpoints/
+
+datos_generados/features/
+*.log
+notebooks/__marimo__/
+notebooks/.marimo/
